@@ -13,39 +13,39 @@ export default function MyRouter() {
   return (
     <Router>
       <Routes>
-        <Route path='groupproject/' element={<App />}>
+        <Route path='tesla-group-project/' element={<App />}>
           <Route index element={<ShopPage />} />
           <Route
             // exact
-            path='/groupproject/category/:productCategory/'
+            path='/tesla-group-project/category/:productCategory/'
             element={<ProductPage />}
           />
           <Route
             // exact
-            path='/groupproject/category/:productCategory/:subCategory'
+            path='/tesla-group-project/category/:productCategory/:subCategory'
             element={<ProductPage />}
           />
           <Route
             // exact
-            path='/groupproject/category/:productCategory/:subCategory/:option'
+            path='/tesla-group-project/category/:productCategory/:subCategory/:option'
             element={<ProductPage />}
           />
           <Route
             // exact
-            path='/groupproject/search/:searchValue'
+            path='/tesla-group-project/search/:searchValue'
             element={<TestPage />}
           />
           <Route
             // exact
-            path='/groupproject/checkout'
+            path='/tesla-group-project/checkout'
             element={<Checkout />}
           />
           <Route
             // exact
-            path='/groupproject/checkout/confirm'
+            path='/tesla-group-project/checkout/confirm'
             element={<Confirmation />}
           />
-          <Route exact path='/groupproject/cart' element={<Cart />} />
+          <Route exact path='/tesla-group-project/cart' element={<Cart />} />
         </Route>
       </Routes>
     </Router>

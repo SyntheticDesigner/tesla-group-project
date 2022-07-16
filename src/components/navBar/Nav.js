@@ -105,9 +105,9 @@ export default function Nav() {
   useEffect(() => {
     setSolidNav(false);
     if (
-      location.pathname === "/groupproject/cart" ||
-      location.pathname === "/groupproject/checkout" ||
-      location.pathname === "/groupproject/checkout/confirm"
+      location.pathname === "/tesla-group-project/cart" ||
+      location.pathname === "/tesla-group-project/checkout" ||
+      location.pathname === "/tesla-group-project/checkout/confirm"
     ) {
       setSolidNav(true);
     } else if (Object.entries(params).length <= 0) {
@@ -167,7 +167,7 @@ export default function Nav() {
           <li
             ref={shopRef}
             className='navHoverEffect'
-            onClick={() => navigate("/groupproject")}
+            onClick={() => navigate("/tesla-group-project")}
             onMouseEnter={() => handleEnter(shopRef.current)}
           >
             Shop
