@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tesla-group-project/static/css/main.7f23e51d.css",
-    "main.js": "/tesla-group-project/static/js/main.d377cc31.js",
+    "main.js": "/tesla-group-project/static/js/main.5ff78758.js",
     "static/js/787.0953edd5.chunk.js": "/tesla-group-project/static/js/787.0953edd5.chunk.js",
     "static/media/mYRuggedRearTrunk.avif": "/tesla-group-project/static/media/mYRuggedRearTrunk.3a746ccb736c36d7a653.avif",
     "static/media/nemaAdaptorBundleHov.avif": "/tesla-group-project/static/media/nemaAdaptorBundleHov.bbad2d932c04bdc242b5.avif",
@@ -246,11 +246,11 @@
     "static/media/arrow.svg": "/tesla-group-project/static/media/arrow.bbdca70ff936292e60300b140ab57c00.svg",
     "static/media/checkMark.svg": "/tesla-group-project/static/media/checkMark.88110c0c3370cb6e8a5ac194e9da2828.svg",
     "main.7f23e51d.css.map": "/tesla-group-project/static/css/main.7f23e51d.css.map",
-    "main.d377cc31.js.map": "/tesla-group-project/static/js/main.d377cc31.js.map",
+    "main.5ff78758.js.map": "/tesla-group-project/static/js/main.5ff78758.js.map",
     "787.0953edd5.chunk.js.map": "/tesla-group-project/static/js/787.0953edd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f23e51d.css",
-    "static/js/main.d377cc31.js"
+    "static/js/main.5ff78758.js"
   ]
 }
