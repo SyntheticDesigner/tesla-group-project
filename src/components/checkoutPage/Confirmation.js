@@ -106,7 +106,7 @@ export default function Confirmation() {
     if (confirm) {
       dispatch(resetCart());
       const timer = setTimeout(() => {
-        navigate("/groupproject");
+        navigate("/tesla-group-project");
       }, 2000);
       setToId(timer);
     }
