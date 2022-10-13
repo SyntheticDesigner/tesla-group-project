@@ -2,7 +2,7 @@
   "name": "tesla-group-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://syntheticdesigner.github.io/tesla-group-project/",
+  "homepage": "http://syntheticnerd.github.io/tesla-group-project/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",

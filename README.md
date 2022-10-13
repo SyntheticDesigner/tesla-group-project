@@ -6,20 +6,21 @@ I used react for this project for the pure purpose of practicing React.
 
 ## Table of contents
 
-- [Authors](#authors)
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+- [Tesla Shop Clone - With React](#tesla-shop-clone---with-react)
+  - [Table of contents](#table-of-contents)
+  - [Authors](#authors)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [Our process](#our-process)
+    - [Built with](#built-with)
+  - [The result](#the-result)
 
 ## Authors
 
 - Andrew Schroepfer
-  - [Website](https://syntheticdesigner.github.io/)
+  - [Website](https://syntheticnerd.github.io/)
   - [Linkedin](https://www.linkedin.com/in/andrew-schroepfer/)
 - Fabian Villasenor
   - [Website](https://github.com/EndingNever)
@@ -144,3 +145,7 @@ const mainNavLinks = navList.map((listItem, i) => (
   </li>
 ));
 ```
+
+## The result
+
+In this project we learned a great deal about working as a team and working with version control tools like github.
